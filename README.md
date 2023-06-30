@@ -74,20 +74,20 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
+  <a href="https://github.com/davpirelli">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=davpirelli&theme=vue" alt="DavPirelli's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
+  <a href="https://github.com/davpirelli">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davpirelli&theme=vue" alt="DavPirelli's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
     <a href="https://github.com/davpirelli"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=davpirelli&theme=vue" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/alsiam"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=davpirelli&langs_count=8&layout=compact&theme=vue" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/davpirelli"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=davpirelli&langs_count=8&layout=compact&theme=vue" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
